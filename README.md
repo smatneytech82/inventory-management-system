@@ -1,23 +1,29 @@
-# inventory-management-system
-Java inventory management system
 # Inventory Management System
 
 ## Overview
-A Java-based inventory management system for tracking products, stock quantities, and inventory updates.
+A console-based Java application for managing inventory items and stock quantities.
 
 ## Features
 - Add inventory items
 - Remove inventory items
-- Update stock quantities
+- Update item quantities
 - View inventory records
+- Console-based menu system
 
 ## Tech Stack
 - Java
+- ArrayList
+- Object-Oriented Programming
 
 ## How to Run
 1. Clone the repository
-2. Open project in IDE
-3. Run the main application file
+2. Open project in VS Code or IntelliJ
+3. Run Main.java
 
 ## Project Status
-In development
+Completed
+
+## Future Improvements
+- Save inventory to file
+- Add product prices
+- Database integration
